@@ -2,7 +2,7 @@
 
 ## :bookmark: Requirements
 
-- [Opensll](https://github.com/openssl/openssl)
+- [Openssl](https://github.com/openssl/openssl)
 
 ## :books: Ghostunnel
 
@@ -29,7 +29,9 @@ Ghostunnel supports two modes, client mode and server mode. Ghostunnel in server
 git clone https://github.com/arielroque/ghostunnel-demo.git
 ```
 
-## :tv: Demo 
+## :tv: Demo
+
+In this demo, we will add TLS communication between two non-tls applications (client and server) using ghostunnel.  
 
 ### Generate certs
 
